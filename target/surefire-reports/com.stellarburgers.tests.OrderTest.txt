@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.stellarburgers.tests.OrderTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.634 s - in com.stellarburgers.tests.OrderTest

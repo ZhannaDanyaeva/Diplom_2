@@ -1,0 +1,9 @@
+com/stellarburgers/models/Order.class
+com/stellarburgers/tests/OrderTest.class
+com/stellarburgers/tests/UserTest.class
+com/stellarburgers/api/OrderApi.class
+com/stellarburgers/api/UserApi.class
+com/stellarburgers/api/AuthApi.class
+com/stellarburgers/models/User.class
+com/stellarburgers/tests/AuthTest.class
+com/stellarburgers/models/LoginResponse.class
